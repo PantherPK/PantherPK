@@ -6,7 +6,7 @@ Jeśli chcesz się ze mną skontaktować lub porozmawiać o programowaniu, zapra
 
 📧 **Email**: *pantherpaykey@gmail.com*
 
-💬 **Discord**: *Panther_PK#1340*
+💬 **Discord**: *@pantherpk*
 
 Jestem doświadczonym administratorem serwerów Minecraft, znam się na konfiguracji VPS/Dedyków i obsłudze stron internetowych. Mogę pomóc w stworzeniu botów Discord w językach Java i JavaScript. 
 
